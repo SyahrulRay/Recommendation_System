@@ -1,0 +1,325 @@
+,id,version,best_price,fuel_cleaned,car_type_cleaned,transmission_cleaned,combined_text
+0,26,Allure PureTech 100,359.0,Gasoline,Utilitario,Manual,Utilitario Manual Gasoline
+1,27,PureTech 130 S&S PLUS,399.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+2,28,Allure PureTech 100 S&S,389.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+3,62,1.2 Allure EDCS6,545.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+4,64,35 L2H2 Bluehdi,579.0,Diesel,Van,Manual,Van Manual Diesel
+5,65,GT L4 MHEV 300CV,1655.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+6,66,GT ULTIMA L4 330CV RWD,1999.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+7,67,MODENA V6 430CV AWD,3079.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+8,70,PureTech 110CV Plus,355.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+9,71,1.2T XHL 100CV GS,345.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+10,73,1.5 I3 S 4WD PHEV,1049.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+11,74,2.0D I4 204CV S 4WD,1225.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+12,75,Active PureTech 100 S&S (Manual),379.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+13,76,1.2 110CV Elegance Pack,375.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+14,78,1.4 E-Hybrid 204CV DSG,630.45,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+15,79,118d,494.3,Diesel,Utilitario,Automatic,Utilitario Automatic Diesel
+16,80,Techno Mild Hybrid 160CV,514.0,Hybrid,SUV,Manual,SUV Manual Hybrid
+17,81,Techno E-Tech Full Hybrid 200CV,615.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+18,83,140H e-CTV Advance 5P,516.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+19,84,220H e-CVT (2WD) Advance 5P,658.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+20,85,Cross 120H Active Tech,414.76,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+21,86,Techno E-Tech Full Hybrid 200CV,600.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+22,112,Jaguar F-Pace,1179.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+23,113,Talla M BlueHDI 100,399.0,Diesel,Van,Manual,Van Manual Diesel
+24,114,L2 H2 BHDI 140CV S&S (MANUAL),545.0,Diesel,Van,Manual,Van Manual Diesel
+25,115,Sportback Advanced 30 TFSI 6-velocidad,0.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+26,116,Allstreet 35 TDI S Tronic,570.0,Diesel,Compact,Automatic,Compact Automatic Diesel
+27,117,S Line 55 TFSI Quattro Tiptronic,839.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+28,118,Avant Advanced 40 TDI S Tronic,627.0,Diesel,Sedan,Automatic,Sedan Automatic Diesel
+29,119,Sportback 40 TDI S Tronic,629.0,Diesel,Sedan,Automatic,Sedan Automatic Diesel
+30,120,200 D,474.0,Diesel,Compact,Automatic,Compact Automatic Diesel
+31,121,300 Edition,828.0,Electric,SUV,Automatic,SUV Automatic Electric
+32,122,300 D 4MATIC CoupÃ©,1109.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+33,123,Hybrid Advance i-MMD,0.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+34,124,Elegance,367.0,Gasoline,Sedan,Automatic,Sedan Automatic Gasoline
+35,125,1.0 TSI Style DSG,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+36,126,Pro Performance,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+37,127,1.0 TSI,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+38,128,Advance I-MMD eCVT,432.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+39,129,Hybrid Elegance,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+40,130,Elegance Full Hybrid 4x2,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+41,131,Elegance BEV,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+42,132,Titanium 1.0 EcoBoost mHEV,410.0,Hybrid,Compact,Automatic,Compact Automatic Hybrid
+43,133,ST-Line 2.5l Duratec 180CV FHEV AutomÃ¡tico FWD,390.0,Hybrid,Utilitario,Automatic,Utilitario Automatic Hybrid
+44,134,ST-Line X 1.5 EcoBlue 115CV FWD,410.0,Diesel,Utilitario,Automatic,Utilitario Automatic Diesel
+45,136,Tributo 1.6 96KW 130CV,470.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+46,137,Sprint 2.2 JTDM 118KW (160CV) AT RWD,430.0,Diesel,Sedan,Automatic,Sedan Automatic Diesel
+47,138,Veloce 2.2 JTDM 118KW (160CV) AT RWD,490.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+48,139,1.5 eTSI 110 KW (150 CV) DSG 7 vel,430.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+49,140,77kWh 210kW (286CV),580.0,Electric,SUV,Automatic,SUV Automatic Electric
+50,141,170 KW (231 CV) 58 kWh e-Boost Pack,450.0,Electric,Compact,Automatic,Compact Automatic Electric
+51,142,Concept 1.0 DPI 5MT,380.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+52,143,1.2 DPi 58kW (79CV) 5MT,390.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+53,144,Concept 1.0 T-GDi 74 kW (100 CV),400.0,Gasoline,Utilitario,Manual,Utilitario Manual Gasoline
+54,145,Drive 1.0 T-GDi 74kW (100CV),410.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+55,146,Concept 1.6 GDi HEV 103kW (141 CV) MY24,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+56,147,SE,457.0,Electric,Compact,Automatic,Compact Automatic Electric
+57,148,Cooper SE ALL 4,530.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+58,150,E,550.0,Electric,SUV,Automatic,SUV Automatic Electric
+59,151,Concept 1.6 TGDi 112kW (150CV) 6MT 4x2 MY24,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+60,152,120 MPI Motion,0.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+61,153,100 MPI Motion,0.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+62,154,100T Motion,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+63,155,30 TDI Advanced,467.0,Diesel,SUV,Manual,SUV Manual Diesel
+64,156,Motion 4WD,379.0,Hybrid,SUV,Manual,SUV Manual Hybrid
+65,157,Antoine De Saint ExupÃ©ry PureTech 130 S&S AutomÃ¡tica,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+66,158,Pallas PureTech 130,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+67,159,Bastille BlueHDi 130 S&S AutomÃ¡tica,0.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+68,160,Acenta,389.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+69,161,Rivoli+ E-TENSE 4x4 360 AutomÃ¡tica,0.0,Hybrid,Sedan,Automatic,Sedan Automatic Hybrid
+70,162,Evolution TCe 67 kW,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+71,163,Evolution TCe 90,0.0,Gasoline,Utilitario,Manual,Utilitario Manual Gasoline
+72,164,Acenta,349.0,Hybrid,SUV,Manual,SUV Manual Hybrid
+73,165,3.0 PHEV 450cv AWD ST Line,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+74,166,Engage,379.0,Electric,SUV,Automatic,SUV Automatic Electric
+75,167,TracciÃ³n Trasera,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+76,168,Tekna+,429.0,Gasoline,Four-wheel-drive,Manual,Four-wheel-drive Manual Gasoline
+77,169,Performance,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+78,170,Plaid,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+79,171,1.2T XHT Hybrid S/S,375.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+80,172,Plaid,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+81,173,Spyder RS,1499.0,Gasoline,Cabriolet,Automatic,Cabriolet Automatic Gasoline
+82,174,WLTP,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+83,175,Long range Single motor,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+84,176,Premium,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+85,177,Pro+,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+86,178,1.4 T-Jet 16V,0.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+87,179,Essential TCe 67kW (90CV),0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+88,180,FR XS 1.5 EcoTSI 110kW,349.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+89,181,Essence,335.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+90,182,Core,389.0,Electric,SUV,Automatic,SUV Automatic Electric
+91,183,1.0 T-GDi 120CV MT,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+92,184,"2,0L DiÃ©sel MHEV R-Dynamic S",0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+93,185,300h +,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+94,186,Prime-Line 2.0L e-SKYACTIV G,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+95,187,1.2 69CV,339.0,Hybrid,Compact,Manual,Compact Manual Hybrid
+96,188,Dynamic SE D250 MHE,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+97,189,â€Ž,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+98,190,R Turini,1187.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+99,191,Trek,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+100,192,Pony,275.0,Electric,Compact,Automatic,Compact Automatic Electric
+101,193,Luxury,349.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+102,194,N60BB,429.0,Gasoline,Four-wheel-drive,Manual,Four-wheel-drive Manual Gasoline
+103,195,Comfort,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+104,196,K30,429.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+105,197,3X e4WD,1225.0,Electric,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Electric
+106,198,770 Ultimate Coupe,1499.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+107,199,W16 Mistral,3079.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+108,200,Mulliner,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+109,201,Basic,1999.0,Hybrid,Roadster,Automatic,Roadster Automatic Hybrid
+110,202,Max,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+111,203,SUV,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+112,204,Absolut,3079.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+113,205,SUV,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+114,206,SUV,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+115,207,SE,3079.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+116,208,670G,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+117,209,Limited,0.0,Gasoline,Minivan,Automatic,Minivan Automatic Gasoline
+118,210,Artura Spider,1187.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+119,211,EV,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+120,212,Standard BlueHDi,385.0,Diesel,Van,Manual,Van Manual Diesel
+121,213,BlueHDi 130 Pallas,585.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+122,214,LB744,0.0,Hybrid,CoupÃ©,Automatic,CoupÃ© Automatic Hybrid
+123,215,Electric Standard,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+124,216,High Country,0.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+125,217,Tradesman,0.0,Gasoline,Van,Automatic,Van Automatic Gasoline
+126,218,SXT,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+127,219,Luxury,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+128,220,HÃ­brido Enchufable,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+129,221,Comfort,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+130,222,Luxury,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+131,223,Luxury,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+132,224,luxury,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+133,225,GT,0.0,Electric,CoupÃ©,Automatic,CoupÃ© Automatic Electric
+134,227,Advanced TFSI S tronic,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+135,228,TFSIe,0.0,Plug-in Hybrid,CoupÃ©,Automatic,CoupÃ© Automatic Plug-in Hybrid
+136,229,Sportback Advanced,0.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+137,230,Sportback TDI,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+138,231,SUV,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+139,232,coupÃ©,0.0,Gasoline,CoupÃ©,Manual,CoupÃ© Manual Gasoline
+140,233,CoupÃ© V10 performance RWD,0.0,Gasoline,CoupÃ©,Manual,CoupÃ© Manual Gasoline
+141,234,Gran CoupÃ©,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+142,235,Berlina,0.0,Diesel,Sedan,Automatic,Sedan Automatic Diesel
+143,236,Cabrio,0.0,Gasoline,Cabriolet,Automatic,Cabriolet Automatic Gasoline
+144,237,520d,0.0,Gasoline,Sedan,Automatic,Sedan Automatic Gasoline
+145,238,740d xDrive,0.0,Gasoline,Sedan,Automatic,Sedan Automatic Gasoline
+146,239,M850i,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+147,240,M35i,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+148,241,sDrive18d,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+149,242,M50,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+150,243,xLine,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+151,244,xDrive30d,0.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+152,245,xDrive40i M Sport,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+153,246,M60i xDRIVE,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+154,247,Label Red,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+155,248,RHT,0.0,Plug-in Hybrid,Roadster,Automatic,Roadster Automatic Plug-in Hybrid
+156,249,Assetto Fiorano,0.0,Plug-in Hybrid,Roadster,Automatic,Roadster Automatic Plug-in Hybrid
+157,250,Assetto Fiorano,0.0,Plug-in Hybrid,Roadster,Automatic,Roadster Automatic Plug-in Hybrid
+158,251,Spider,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+159,252,V12 725,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+160,253,F169,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+161,254,3.9 V8,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+162,255,F140HD,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+163,256,xDrive30,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+164,257,eDrive20,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+165,258,Impressive,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+166,259,M40i SIGNATURE,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+167,260,xDrive40,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+168,261,1.0 TSI,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+169,262,Style,0.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+170,263,FR XS,0.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+171,264,Style,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+172,265,Style,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+173,266,2.0 L4,0.0,Gasoline,Cabriolet,Automatic,Cabriolet Automatic Gasoline
+174,267,S,0.0,Electric,Cabriolet,Automatic,Cabriolet Automatic Electric
+175,268,"1,5 L3",0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+176,269,1.5 E-Hybrid,0.0,Hybrid,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Hybrid
+177,270,4xe,0.0,Plug-in Hybrid,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Plug-in Hybrid
+178,271,4xe Summit Reserve,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+179,272,V8,0.0,Diesel,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Diesel
+180,273,CupÃ©,0.0,Gasoline,CoupÃ©,Manual,CoupÃ© Manual Gasoline
+181,274,CupÃ© Deportivo,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+182,275,2024,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+183,277,707 AMR24,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+184,278,Coupe,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+185,279,V8 Twin Turbo,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+186,280,AM-RB,0.0,Hybrid,CoupÃ©,Automatic,CoupÃ© Automatic Hybrid
+187,281,V8,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+188,282,V12,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+189,284,1.4 16v,0.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+190,285,2024,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+191,286,V16,0.0,Hybrid,CoupÃ©,Manual,CoupÃ© Manual Hybrid
+192,287,Pur Sport,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+193,288,V8,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+194,289,Speed,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+195,290,4.0 V8,0.0,Gasoline,Cabriolet,Automatic,Cabriolet Automatic Gasoline
+196,291,ami,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+197,292,Plus PureTech 130,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+198,293,Max Turno 100 S&S 6v,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+199,294,You PureTech 100 S&S 6V,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+200,295,Expression 45,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+201,296,Expression TCe 67kW,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+202,297,Expression,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+203,298,Extreme Hybrid 140,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+204,299,Electrico,0.0,Electric,Compact,Automatic,Compact Automatic Electric
+205,300,HÃ­brido MY 25 LA PRIMA 1.2 74kW,402.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+206,301,Monotrim 1.0 Hybrid 51KW,0.0,Hybrid,Compact,Automatic,Compact Automatic Hybrid
+207,302,Dolcevita,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+208,303,Urban,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+209,304,Hatchback MY24 Cross,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+210,305,Top,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+211,306,Talla M Lounge,0.0,Electric,Van,Automatic,Van Automatic Electric
+212,307,Multijet,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+213,309,KLASS,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+214,310,MAXX,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+215,311,Klass,0.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+216,312,48V,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+217,313,N,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+218,314,Electric,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+219,316,1.0 MPI Klass SedÃ¡n,335.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+220,317,1.6 TGDI,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+221,320,Tecno,0.0,Diesel,Van,Automatic,Van Automatic Diesel
+222,321,GLS,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+223,322,Emotion,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+224,323,AWD,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+225,324,V2L,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+226,325,RWD,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+227,326,1.6 T,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+228,328,5p Prime-Line,0.0,Hybrid,Compact,Automatic,Compact Automatic Hybrid
+229,329,Prime-Line,0.0,Gasoline,Roadster,Manual,Roadster Manual Gasoline
+230,330,Center-Line,0.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+231,331,2.0 TDI,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+232,332,R-EV,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+233,333,SedÃ¡n,0.0,Gasoline,Sedan,Manual,Sedan Manual Gasoline
+234,334,M Hybrid,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+235,335,250e,0.0,Plug-in Hybrid,Compact,Automatic,Compact Automatic Plug-in Hybrid
+236,336,300e,0.0,Hybrid,Sedan,Automatic,Sedan Automatic Hybrid
+237,337,200 CoupÃ©,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+238,338,500,0.0,Diesel,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Diesel
+239,339,Suv Tourer,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+240,340,SL 43,0.0,Electric,Roadster,Automatic,Roadster Automatic Electric
+241,341,250,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+242,342,200d,0.0,Diesel,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Diesel
+243,343,350 d 4MATIC,0.0,Plug-in Hybrid,Sedan,Automatic,Sedan Automatic Plug-in Hybrid
+244,344,250e,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+245,345,350d 4MATIC,0.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+246,346,300,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+247,347,Elegant,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+248,348,Luxury 450e,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+249,349,350h,0.0,Plug-in Hybrid,SUV,Automatic,SUV Automatic Plug-in Hybrid
+250,350,450h,0.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+251,351,V6,0.0,Hybrid,Van,Automatic,Van Automatic Hybrid
+252,352,300h,0.0,Hybrid,Sedan,Automatic,Sedan Automatic Hybrid
+253,353,90 X-Dynamic SE,0.0,Gasoline,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Gasoline
+254,354,Velar,0.0,Plug-in Hybrid,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Plug-in Hybrid
+255,355,e+,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+256,356,N-Connecta,0.0,Diesel,Van,Automatic,Van Automatic Diesel
+257,357,Tekna,0.0,Gasoline,Utilitario,Manual,Utilitario Manual Gasoline
+258,358,L2H2 3.5T,0.0,Diesel Hybrid ,Utilitario,Automatic,Utilitario Automatic Diesel Hybrid 
+259,359,V8,0.0,Plug-in Hybrid,Roadster,Automatic,Roadster Automatic Plug-in Hybrid
+260,360,800V,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+261,361,5.0 V8,0.0,Gasoline,Roadster,Automatic,Roadster Automatic Gasoline
+262,362,4.7 V8 795,0.0,Gasoline,Roadster,Manual,Roadster Manual Gasoline
+263,363,4.7 i V8 32V,0.0,Gasoline,Roadster,Manual,Roadster Manual Gasoline
+264,364,4.2 V8,0.0,Gasoline,Roadster,Manual,Roadster Manual Gasoline
+265,365,MSRP,0.0,Plug-in Hybrid,Van,Automatic,Van Automatic Plug-in Hybrid
+266,366,V8 5.7,0.0,Gasoline,Sedan,Automatic,Sedan Automatic Gasoline
+267,367,Modena Ultima,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+268,368,Folgore,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+269,369,Tech Edition 1.2T,0.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+270,370,1.5 TD,0.0,Gasoline,Van,Manual,Van Manual Gasoline
+271,371,2.2 BlueHDi 120 S&S MT6,0.0,Diesel,Van,Manual,Van Manual Diesel
+272,372,Select 1.5 Diesel 130CV,0.0,Diesel,Van,Manual,Van Manual Diesel
+273,373,167,0.0,Diesel,Van,Manual,Van Manual Diesel
+274,374,E,0.0,Electric,Sedan,Automatic,Sedan Automatic Electric
+275,375,alture,0.0,Plug-in Hybrid,Sedan,Automatic,Sedan Automatic Plug-in Hybrid
+276,376,130 EAT8,0.0,Gasoline,Cabriolet,Manual,Cabriolet Manual Gasoline
+277,377,-E,0.0,Electric,SUV,Automatic,SUV Automatic Electric
+278,378,-E,0.0,Electric,Van,Automatic,Van Automatic Electric
+279,379,-E,0.0,Electric,Van,Automatic,Van Automatic Electric
+280,380,3.0 H2 L1,0.0,Diesel,Van,Manual,Van Manual Diesel
+281,381,GTS,0.0,Gasoline,CoupÃ©,Automatic,CoupÃ© Automatic Gasoline
+282,382,4S,0.0,Electric,CoupÃ©,Automatic,CoupÃ© Automatic Electric
+283,383,Active PureTech 100,345.0,Gasoline,Utilitario,Manual,Utilitario Manual Gasoline
+284,384,Allure PureTech 130 (AutomÃ¡tico),429.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+285,385,GT PureTech 130 S&S EAT8,419.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+286,386,1.5 BlueHDi S&S Allure Pack,525.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+287,387,1.0 E-Hybrid Altitude 100CV,456.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+288,388,L1 BlueHDi 1.5L 100CV,399.0,Diesel,Van,Manual,Van Manual Diesel
+289,389,1.2T XHL 74kW (100cv) GS-Line,339.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+290,391,1.2 Altitude 74kw (100CV),430.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+291,392,Cross 120H Active Plus,399.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+292,393,Hybrid N-Connecta 145cv (AutomÃ¡tico),446.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+293,394,Acenta e-Power 190cv (AutomÃ¡tico),476.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+294,396,1.5DCI Evolution 100CV,368.0,Diesel,Utilitario,Manual,Utilitario Manual Diesel
+295,397,E-TECH HÃ­brido Techno 105kW,421.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+296,398,Techno Mild Hybrid 160cv (AutomÃ¡tico),514.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+297,399,MÃ¡s 1.0 TSI 85kW (115cv),424.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+298,400,1.5 e-Skyactiv G Homura 66kW SedÃ¡n,385.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+299,401,MY25 1.5 E power 204CV Acenta,558.0,Hybrid,Four-wheel-drive,Automatic,Four-wheel-drive Automatic Hybrid
+300,403,ST Line 1.0 Ecoboost Mhev 125CV,406.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+301,404,A3 Sportback 30 TFSI Advance S tronic,482.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+302,405,1.0 TSI Selection SUV,419.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+303,406,G15 Life 120kW (163 CV),600.0,Gasoline,SUV,Manual,SUV Manual Gasoline
+304,407,G15 Life Aut . 120kW (163,636.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+305,408,G15 4x2 Urban Plus 109kW,493.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+306,409,Sports D22 DTR 4X4 PRO,517.0,Diesel,Four-wheel-drive,Manual,Four-wheel-drive Manual Diesel
+307,410,3.5 L2 H2 BHDI 140CV,565.0,Diesel,Van,Manual,Van Manual Diesel
+308,411,BlueHDi 130 Performance Line,515.0,Diesel,SUV,Automatic,SUV Automatic Diesel
+309,413,E-C3 Max 83kw 100% elÃ©ctrico,538.0,Electric,SUV,Automatic,SUV Automatic Electric
+310,414,Allure 100% ElÃ©ctrico 136 Sedan,597.0,Electric,Compact,Automatic,Compact Automatic Electric
+311,415,1.6 Premium 145,523.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+312,416,ICE SELECT 4x2,590.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+313,417,Hybrid 100CV,459.0,Hybrid,Compact,Automatic,Compact Automatic Hybrid
+314,418,1.2 Puretech S&S Allure 100CV,331.0,Gasoline,Compact,Manual,Compact Manual Gasoline
+315,419,Gen-e FWD 43kW,548.0,Electric,SUV,Automatic,SUV Automatic Electric
+316,420,MHEV 1.2 75kW DDCT,399.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+317,421,N2008 Allure Hybrid 136,399.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+318,422,Sportback 30 TFSI Advanced S tronic SedÃ¡n,482.0,Gasoline,Compact,Automatic,Compact Automatic Gasoline
+319,423,2.0 e-Skyactiv-G MHEV Advantage 2WD 121kW,589.0,Hybrid,SUV,Manual,SUV Manual Hybrid
+320,424,1.2 PureTech Max S&S 130,420.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+321,425,E-Tech Full Hybrid Evolution,453.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
+322,426,1.6 E-Tech Techno 105kW,489.0,Gasoline,SUV,Automatic,SUV Automatic Gasoline
+323,427,HEV 1.6 GDI Maxx DT SUV,507.0,Hybrid,SUV,Automatic,SUV Automatic Hybrid
